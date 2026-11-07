@@ -68,25 +68,25 @@ I explored different aspects of the Gurgaon real estate marketplace through 17 a
 
 ### 1. Construction Status vs Pricing Breakdown
 
-![STATUS VS PRICE](visualisation/STATUS%20VS%20PRICE.png)
+![STATUS VS PRICE](visualizations/STATUS%20VS%20PRICE.png)
 
 This bar chart evaluates how construction statuses and RERA approvals dictate asset valuations. It highlights pricing margins across property phases hued by active regulatory tracks.
 
 ### 2. Asset Dimension Scaling vs Square-Foot Valuations
 
-![AREA VS RATE PER SQFT](visualisation/AREA%20VS%20RATE%20PER%20SQFT.png)
+![AREA VS RATE PER SQFT](visualizations/AREA%20VS%20RATE%20PER%20SQFT.png)
 
 This scatter plot tracks square-foot pricing behaviors against layout dimensions. An explicit filter was applied for properties below 20,000 SqFt to eliminate faulty axis compression and show the true cluster cleanly.
 
 ### 3. Property Area vs Price Distribution
 
-![AREA VS PRICE](visualisation/AREA%20VS%20PRICE.png)
+![AREA VS PRICE](visualizations/AREA%20VS%20PRICE.png)
 
 This visualization isolates mass-market pricing movements. It limits the plotting canvas to properties below 1.5 Crore INR, revealing a clear diagonal distribution trend by filtering out extreme ultra-luxury outliers.
 
 ### 4. Market Volume Breakdown: Status vs RERA Approvals
 
-![STATUS VS RERA APPROVAL](visualisation/STATUS%20VS%20RERA%20APPROVAL.png)
+![STATUS VS RERA APPROVAL](visualizations/STATUS%20VS%20RERA%20APPROVAL.png)
 
 This count plot displays the distribution of registered listings across different construction phases. It provides an immediate look at market volume allocations hued by active regulatory compliance.
 
